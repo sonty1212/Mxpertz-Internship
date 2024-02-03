@@ -1,0 +1,145 @@
+.driver{
+    padding: 10px 30px;
+}
+
+.nav{
+    background-color: #00FFF2;
+    
+}
+
+.Center{
+    padding: 0px 50px ;
+
+}
+
+
+.button button{
+    padding: 2px 40px;
+    margin-right: 60px;
+
+}
+
+.main{
+    min-height: 93.4vh;
+    overflow: hidden;
+}
+
+.img{
+    width: 663px;
+    height: 573px;
+    position: relative;
+    top: 100px;
+    left: 531px;
+
+}
+
+.yellow{
+    min-height: 93.4vh;
+    width: 50%;
+    text-align: center;
+}
+
+.yellow>h3{
+    width: 211px;
+    height: 33px;
+    position: absolute;
+    top: 84px;
+    left: 226px;
+
+    font-family: 'Roboto';
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33px;
+}
+
+.yellow>h2{
+    width: 450px;
+    height: 224px;
+    position: absolute;
+    top: 138px;
+    left: 106px;
+
+    font-family: 'Roboto';
+    font-size: 128px;
+    font-weight: 700;
+    line-height: 112px;
+    color:  #FF00CF;
+    
+
+}
+
+.yellow>h4{
+    width: 507px;
+    height: 50px;
+    position: absolute;
+    
+    top: 384px;
+    left: 87px;
+
+    
+    font-family: 'Roboto';
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 50px;
+    
+
+}
+.yellow>p{
+    width: 509px;
+    height: 243px;
+    position: absolute;
+    
+    top: 467px;
+    left: 100px;
+
+    text-align: left;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+   
+
+}
+
+.pink-button {
+    width: 184px; 
+    height: 36px;
+    position: absolute;
+    
+    top: 635px;
+    left: 239px;
+    border-radius: 10px;
+    background-color: #FF00CF;
+}
+
+.main2{
+    width: 50%;
+    height: 100%;
+}
+
+#img{
+    width: 663px;
+    height: 573px;
+    position: absolute;
+    top: 100px;
+    left: 651px;
+}
+
+.inner1-main2{
+    
+    width: 100%;
+    height: 150px;
+    position: relative;
+    transform: skew(-20deg);
+    left: 50px;
+    top: 0px;
+}
+
+.inner2-main2{
+    
+    width: 100%;
+    height: 550px;
+    position: relative;
+    transform: skew(-20deg);
+    left: 100px;
+}
